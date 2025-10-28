@@ -22,8 +22,9 @@ Correlations & enrichment
 
 Heatmaps of contact maps, compartment correlations, compartment-strength correlations, insulation-score correlations.
 
-Enrichment of 1D signals within 3D features (A/B, strong/weak compartments, domain borders).
+Enrichment of 1D signals within 3D features (A/B, strong/weak compartments, domain borders)
 
 Compartment size distribution
 
 Cumulative plots of compartment/domain sizes across conditions.
+
