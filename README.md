@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17475348.svg)](https://doi.org/10.5281/zenodo.17475348)
+
 3D Genomics Analysis – Compartment & Insulation Profiling
 
 Workflow Summary
